@@ -18,5 +18,5 @@ Este projeto é um **desafio de lógica de programação** onde você pode cadas
 - **JavaScript (ES6)** → lógica de programação (adicionar e sortear amigos).  
 - **Google Fonts** → tipografia personalizada.  
 
-## 📂 Estrutura do Projeto
+
 
