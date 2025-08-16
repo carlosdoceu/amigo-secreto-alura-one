@@ -16,7 +16,7 @@ Este projeto é um **desafio de lógica de programação** onde você pode cadas
 - **HTML5** → estrutura da aplicação.  
 - **CSS3** → estilização.  
 - **JavaScript (ES6)** → lógica de programação (adicionar e sortear amigos).  
-- **Google Fonts** → tipografia personalizada.  
+
 
 
 
